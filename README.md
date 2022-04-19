@@ -1,1 +1,0 @@
-# emrahbeydilli.github.io
