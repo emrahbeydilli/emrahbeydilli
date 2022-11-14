@@ -5,10 +5,6 @@
 </div>  
 <br/>
 
-<div>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emrahbeydilli)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 ## Connect with me  
 <div>
 <a href="https://github.com/emrahbeydilli" target="_blank">
