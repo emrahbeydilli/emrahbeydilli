@@ -1,11 +1,7 @@
 ## Github Stats  
 <div style="display:flex">
-  <div style="flex:1">
-    <img src="https://github-readme-stats.vercel.app/api?username=emrahbeydilli&show_icons=true&count_private=true&hide_border=true"/>
-  </div>
-  <div style="flex:1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrahbeydilli&hide_border=true&layout=compact"/>
-  </div>
+<img src="https://github-readme-stats.vercel.app/api?username=emrahbeydilli&show_icons=true&count_private=true&hide_border=true" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrahbeydilli&hide_border=true&layout=compact"/>
 </div>  
 <br/>
 
