@@ -1,9 +1,11 @@
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emrahbeydilli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=emrahbeydilli&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 <br/> 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/emrahbeydilli" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -16,7 +18,7 @@
 </div>
 <br/>
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=emrahbeydilli&&style=flat-square" align="center" />
 </div> 
 <div align="center">
