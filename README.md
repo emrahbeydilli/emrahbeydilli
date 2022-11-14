@@ -3,7 +3,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=emrahbeydilli&show_icons=true&count_private=true&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrahbeydilli&hide_border=true&layout=compact" />
 </div>  
-<br/> 
+<br/>
+
+<div>
+  [![emrahbeydilli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emrahbeydilli)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## Connect with me  
 <div>
