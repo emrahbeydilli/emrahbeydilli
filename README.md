@@ -6,7 +6,7 @@
 <br/>
 
 <div>
-  [![emrahbeydilli's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emrahbeydilli)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emrahbeydilli)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## Connect with me  
