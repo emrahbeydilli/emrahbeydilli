@@ -7,7 +7,7 @@
 
 ## Wakatime
 <div>
-<a href="https://wakatime.com/badge/user/195ed6c9-0e03-45b2-96a0-9ca9f0994d5d/project/12ab11e0-2247-468f-ac8c-89fc9f42268f"><img src="https://wakatime.com/badge/user/195ed6c9-0e03-45b2-96a0-9ca9f0994d5d/project/12ab11e0-2247-468f-ac8c-89fc9f42268f.svg" alt="wakatime"></a>
+<img src="https://wakatime.com/badge/user/195ed6c9-0e03-45b2-96a0-9ca9f0994d5d/project/12ab11e0-2247-468f-ac8c-89fc9f42268f.svg"/>
 </div>
 
 ## Connect with me  
