@@ -1,6 +1,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emrahbeydilli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
+<br/> 
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/emrahbeydilli" target="_blank">
