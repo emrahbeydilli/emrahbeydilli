@@ -6,7 +6,7 @@
 
 ## WakaTime
 <div>
-<img src="https://wakatime.com/badge/user/195ed6c9-0e03-45b2-96a0-9ca9f0994d5d.svg"/>
+[![wakatime](https://wakatime.com/badge/user/195ed6c9-0e03-45b2-96a0-9ca9f0994d5d.svg)](https://wakatime.com/@195ed6c9-0e03-45b2-96a0-9ca9f0994d5d)
 </div>
 
 ## Connect with me  
