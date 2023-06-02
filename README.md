@@ -2,6 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrahbeydilli)](https://github.com/emrahbeydilli/github-readme-stats)
 
 ## WakaTime
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emrahbeydilli)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <a href="https://wakatime.com/@195ed6c9-0e03-45b2-96a0-9ca9f0994d5d"><img src="https://wakatime.com/badge/user/195ed6c9-0e03-45b2-96a0-9ca9f0994d5d.svg" alt="Total time coded since Nov 14 2022" /></a>
 </div>
