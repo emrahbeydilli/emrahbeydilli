@@ -1,6 +1,5 @@
 ## Github Stats  
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=emrahbeydilli&show_icons=true&count_private=true&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrahbeydilli&hide_border=true&layout=compact"/>
 </div>  
 
