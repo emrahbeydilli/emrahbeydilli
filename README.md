@@ -1,7 +1,5 @@
 ## Github Stats  
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrahbeydilli)](https://github.com/emrahbeydilli/github-readme-stats)
-</div>  
 
 ## WakaTime
 <div>
